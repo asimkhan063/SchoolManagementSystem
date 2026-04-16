@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Login</title>
+</head>
+
+<body>
+
+<h2>School Login</h2>
+
+<form action="login" method="post">
+
+Email
+<input type="text" name="email">
+
+<br><br>
+
+Password
+<input type="password" name="password">
+
+<br><br>
+
+<button type="submit">Login</button>
+
+</form>
+
+</body>
+</html>
